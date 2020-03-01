@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Mar 01 12:24:53 CET 2020
+android-mms-1.2-sources.jar>=
+android-mms-1.2.jar>=
+android-mms-1.2.pom>=
